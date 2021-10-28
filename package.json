@@ -3,12 +3,23 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@stripe/react-stripe-js": "^1.1.2",
+    "@stripe/stripe-js": "^1.10.0",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
-    "react": "^17.0.0",
-    "react-dom": "^17.0.0",
-    "react-scripts": "3.4.4"
+    "axios": "^0.21.0",
+    "bootstrap": "^4.5.3",
+    "firebase": "^7.24.0",
+    "moment": "^2.29.1",
+    "react": "^17.0.1",
+    "react-animated-css": "^1.2.1",
+    "react-bootstrap": "^1.4.0",
+    "react-dom": "^17.0.1",
+    "react-meta-tags": "^0.7.4",
+    "react-notifications-component": "^2.4.1",
+    "react-scripts": "3.4.4",
+    "video-react": "^0.14.1"
   },
   "scripts": {
     "start": "react-scripts start",
